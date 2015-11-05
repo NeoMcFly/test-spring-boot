@@ -7,6 +7,6 @@ import neomcfly.test.spring.boot.Main;
 
 @Configuration
 @ComponentScan(basePackageClasses = Main.class)
-public class ConfigurationContext {
+public class ContextConfiguration {
 
 }
