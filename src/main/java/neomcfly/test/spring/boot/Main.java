@@ -7,15 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Main {
 
 	public static void main(String[] args) {
-
-		// AnnotationConfigApplicationContext ctx = new
-		// AnnotationConfigApplicationContext();
-		//
-		// ctx.register(ConfigurationContext.class);
-		// ctx.refresh();
-
 		SpringApplication.run(Main.class, args);
-
 	}
 
 }
